@@ -1,0 +1,58 @@
+body, .card {
+    background-color: antiquewhite;
+}
+
+footer {
+    border-top: 2px solid black;
+    background-color: black;
+}
+
+.header-form {
+    text-align: center;
+}
+
+.bg-spec {
+    background-color: rgb(2,203,240);
+}
+
+h1{
+    text-align: center;
+}
+
+.separateur {
+    border: 2px solid black;
+    margin: 1em auto .5em auto;
+    width: 80%;
+}
+
+.carousel-plats, .header-form, .plats, .opportunity, .plats-promo{
+    margin: 1em auto;
+    width: 70%;
+}
+
+.card {
+    border: 1px solid black;
+}
+
+.card img {
+    border-bottom: 1px solid black;
+}
+
+.plat-special {
+    margin: 1em auto;   
+}
+
+.plats-promo .card {
+    margin-bottom: 1em;
+}
+
+.about {
+    padding-bottom: 1em;
+    margin: 1em auto 0em auto;
+    width: 70%;
+}
+
+.about .card {
+    background-color: rgb(108,117,125);
+    color: white;
+}
